@@ -14,7 +14,7 @@ const Nav = () =>{
             <div className="nav-right">
                 <a 
                 target="_blank"
-                href="https://github.com/jubermominn323"
+                href="https://github.com/jubermominn323/typing-test"
                 className="nav-link"
                 rel="noreferrer">
                     A.A.M.
